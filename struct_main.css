@@ -1,0 +1,127 @@
+#all{
+	background-color: white;
+}
+
+#upPart{
+	background-color: white;
+	border:solid;
+	border-color:black;
+	position:relative;
+	margin-right:150px;
+	margin-left:5%;
+	height:205px;
+	width:1200px;
+}
+
+
+.logo_img{
+	Background-Color:black;
+	position: absolute;
+	border: solid;
+	border-color:black;
+	width:200px;
+	margin-right:80%;
+	
+}
+
+#zone_recherche{
+	background-color: slategrey;
+	position: absolute;
+	margin-top: 300 px;
+	margin-left: 400px;
+	margin-right:30%;
+	height:200px;
+	
+	border:solid;
+}
+
+.logo_img{
+	color:grey;
+	Background-Color:white;
+	position: absolute;
+	border: solid;
+	width:200px;
+	margin-right:auto;
+}
+
+.skull_img{
+	width:30px;
+	border:solid;
+	border-color:silver;	
+}
+
+.plus_img{
+		width:30px;
+}
+
+.minus_img{
+	width:30px;
+}
+
+#liens_connexion_deconnexion{
+
+	border: solid;
+	color: black;
+	border-color:white;
+	position: absolute;
+	margin-left: 70%;
+	margin-right:auto;
+	text-align:right;
+}
+
+#disconnect{
+
+	border: solid;
+	color: black;
+	border-color:white;
+	position: absolute;
+	margin-left: 70%;
+	margin-right:auto;
+	text-align:right;
+}
+
+
+
+#bigPart{
+	position:absolute;
+	height:auto;
+	margin-right:150px;
+	margin-left:5%;
+	width:1200px;
+}
+
+#zone_statistiques{
+	background-color:royalblue;
+	color:white;
+	position:absolute;
+	weight:300px;
+	border:solid;
+	border-color:black;
+	text-align:left;
+	width:300px;
+	height:1000px;
+}
+
+#main{
+	Background-Color:white;
+	border:solid;
+	border-color:black;
+	position: absolute;
+	float:right;
+	margin-left: 300px;
+	margin-right:auto;
+	text-align:center;
+	height:1000px;
+	width:890px;
+}
+
+#zone_nouveau_post{
+	background-color:red;
+	border:solid;
+	border-color:grey;
+}
+
+
+
+
+
